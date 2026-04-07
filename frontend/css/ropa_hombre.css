@@ -1,0 +1,25 @@
+
+#nav{
+    height: 69px;    
+}
+
+#logo{
+    width: 150px;
+    height: 100px;
+}
+
+#redes{
+    width: 10%;
+}
+
+#tipo{
+    border-right: solid black 1px;
+}
+
+#ropa{
+    border-right: solid black 3px;
+}
+
+#parra{
+    font-size: 28px;
+}
